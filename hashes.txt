@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jodi
+
+This log tracks the cryptographic history and versioning for the song **Jodi** (jodi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:14:10.849669 | `v1` | `86f2a8eefed8a6a4238fa3913b6dd5c92c8bf09f7db0a518c9fa0e77e7defd75` | `0d88ac29343914886df1face3fdb5f279a84eca6011c8974891bf21ca6c8f995` | `2026-05-28_jodi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
