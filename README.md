@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jodi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Jodi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jodi/) |
+| **Get License** | [Get a Licensing Quote for Jodi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jodi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শূন্য আকাশ শূন্য সময়, মেঘের ঠিকানা খুঁজি.. খুঁজি..
+> আঁধার রাতে তোমার ছায়ায়, মিথ্যে স্বপন বুঝি
+> বাতাস এসে জানিয়ে দিয়ে যায়, আর তো সময় নেই
+> নীরব পথে খুঁজছি তোমায়, আজও আমি সেই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
